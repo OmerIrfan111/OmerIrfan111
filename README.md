@@ -1,389 +1,177 @@
-Here is the README document draft:
+<div align="center">
 
-# <div align="center">
+![Header Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:0d1117,70:2D1B69,100:7C3AED\&height=220\&section=header\&text=Muhammad%20Omer%20Irfan\&fontSize=60\&fontColor=A855F7\&fontAlignY=35\&desc=AI/ML%20Engineer%20%7C%20Software%20Engineer\&descColor=C084FC\&descSize=20\&descAlignY=55\&animation=fadeIn)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7&text=Muhammad%20Omer%20Irfan&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=500\&size=20\&pause=1000\&color=A855F7\&center=true\&vCenter=true\&width=700\&lines=Building+AI-Powered+Applications;Developing+RAG+Systems;Engineering+Full-Stack+Solutions;Creating+Intelligent+Automation+Systems)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Software+Engineer;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Building+Production-Ready+AI+Systems;Open+Source+Contributor"/>
+---
 
-<br/>
+</div>
 
-![BSCS](https://img.shields.io/badge/BSCS-Computer%20Science-7C3AED?style=for-the-badge)
-![AI](https://img.shields.io/badge/Specialization-Artificial%20Intelligence-6366F1?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Pakistan-8B5CF6?style=for-the-badge)
+<div align="center">
 
-<a href="https://omerirfan111.github.io">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+**Engineering intelligent software systems powered by AI, automation, and scalable architecture.**
 
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/OmerIrfan111">
-<img src="https://img.shields.io/badge/GitHub-Profile-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=OmerIrfan111\&style=for-the-badge\&color=7C3AED)
-![](https://img.shields.io/github/followers/OmerIrfan111?style=for-the-badge\&color=6366F1)
-![](https://img.shields.io/github/stars/OmerIrfan111?style=for-the-badge\&color=8B5CF6)
+[![Profile Views](https://komarev.com/ghpvc/?username=OmerIrfan111\&color=A855F7\&style=flat-square\&label=PROFILE+VIEWS)](https://github.com/OmerIrfan111)
+[![GitHub](https://img.shields.io/badge/GitHub-OmerIrfan111-A855F7?style=flat-square\&logo=github)](https://github.com/OmerIrfan111)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-7C3AED?style=flat-square)](https://github.com/OmerIrfan111)
 
 </div>
 
 ---
 
-# About Me
+## < /> Initialize Config
 
-Software Engineer focused on building scalable applications, AI-powered products, intelligent automation systems, and enterprise-grade software solutions.
+```javascript
+const Muhammad_Omer_Irfan = {
+  role: "Software Engineer",
+  specialization: "AI & Machine Learning",
+  focus: [
+    "Generative AI",
+    "RAG Systems",
+    "Computer Vision",
+    "Full Stack Development"
+  ],
+  technologies: [
+    "Python",
+    "Java",
+    "C++",
+    "MySQL"
+  ],
+  currentProjects: [
+    "DocuGuard",
+    "AI Customer Support Agent",
+    "AutoLance"
+  ],
+  github: "github.com/OmerIrfan111"
+};
+```
 
-My work spans across:
-
-* Artificial Intelligence & Machine Learning
-* Retrieval-Augmented Generation (RAG)
-* Large Language Models (LLMs)
-* Full Stack Web Development
-* Backend Engineering
-* Data Engineering
-* Cloud-Native Applications
-* Product-Oriented Software Design
-
-I enjoy transforming research ideas into production-ready systems that solve real-world business problems.
-
-### Open To
-
-* Software Engineering Internships
-* AI/ML Engineering Roles
-* Backend Engineering Roles
-* Full Stack Development Opportunities
-* Open Source Collaborations
-* Research & Innovation Projects
-
----
-
-# Tech Stack
-
-### Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,mysql"/>
-</p>
-
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/>
-</p>
-
-### Backend & Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,mysql,postgresql"/>
-</p>
-
-### Cloud, DevOps & Tooling
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman"/>
-</p>
+Computer Science student and AI-focused Software Engineer passionate about building production-ready intelligent systems. My work includes Retrieval-Augmented Generation (RAG), AI agents, computer vision, automation tools, and scalable software applications that solve real-world problems.
 
 ---
 
-# AI / ML Expertise
+## < /> Tech Stack
 
-| Domain                 | Proficiency | Details                            |
-| ---------------------- | ----------- | ---------------------------------- |
-| Machine Learning       | Advanced    | Supervised & Unsupervised Learning |
-| Deep Learning          | Advanced    | Neural Networks, CNNs              |
-| Computer Vision        | Advanced    | YOLOv8, Detection Systems          |
-| NLP                    | Advanced    | LLM Applications, RAG Pipelines    |
-| Generative AI          | Advanced    | AI Agents, Prompt Engineering      |
-| Data Analytics         | Advanced    | Forecasting & Trend Analysis       |
-| AI Product Engineering | Advanced    | End-to-End AI Deployments          |
+### [ Artificial Intelligence & Data ]
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square\&logo=python\&logoColor=A855F7)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0D1117?style=flat-square\&logo=tensorflow\&logoColor=A855F7)
+![RAG](https://img.shields.io/badge/RAG_Systems-0D1117?style=flat-square\&logo=openai\&logoColor=A855F7)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-0D1117?style=flat-square\&logo=opencv\&logoColor=A855F7)
+
+### [ Languages & Development ]
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square\&logo=python\&logoColor=C084FC)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square\&logo=openjdk\&logoColor=C084FC)
+![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square\&logo=cplusplus\&logoColor=C084FC)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square\&logo=javascript\&logoColor=C084FC)
+
+### [ Frameworks & Tooling ]
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square\&logo=fastapi\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square\&logo=git\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square\&logo=mysql\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square\&logo=github\&logoColor=white)
 
 ---
 
-# Featured Projects
+## < /> Featured Architectures
 
-<details>
-<summary><b>DocuGuard — AI Compliance & Audit Intelligence Platform</b></summary>
+<table>
+<tr>
+<td width="50%">
 
-### Overview
+### 📄 DocuGuard
 
-AI-powered document auditing and compliance validation platform.
+AI-powered compliance and document auditing platform.
 
-| Category    | Details                          |
-| ----------- | -------------------------------- |
-| Stack       | Python, AI, NLP                  |
-| Scale       | Enterprise Compliance            |
-| Performance | Automated Document Processing    |
-| Security    | Compliance-Oriented Architecture |
-| Impact      | Reduces Manual Audit Work        |
-| Repository  | DocuGuard                        |
+* Automated compliance verification
+* Intelligent document analysis
+* Audit workflow automation
+* Enterprise-focused architecture
 
-### Highlights
+</td>
 
-* Automated compliance assessment
-* Document intelligence workflows
-* Risk identification engine
-* Enterprise audit support
+<td width="50%">
 
-</details>
+### 🤖 AI Customer Support Agent
 
-<details>
-<summary><b>AI Customer Support Agent (RAG Chatbot)</b></summary>
-
-### Overview
-
-Retrieval-Augmented Generation chatbot for customer support automation.
-
-| Category    | Details                       |
-| ----------- | ----------------------------- |
-| Stack       | Python, RAG, LLMs             |
-| Scale       | Multi-Document Knowledge Base |
-| Performance | Low-Latency Retrieval         |
-| Security    | Controlled Knowledge Access   |
-| Impact      | Customer Support Automation   |
-| Repository  | chatbot                       |
-
-### Highlights
+RAG-powered customer support solution.
 
 * Context-aware responses
-* Vector retrieval architecture
-* LLM integration
-* Production-ready chatbot design
+* Knowledge retrieval pipeline
+* LLM-powered conversations
+* Multi-document support
 
-</details>
+</td>
+</tr>
 
-<details>
-<summary><b>AutoLance — Autonomous Upwork Bidding Agent</b></summary>
+<tr>
+<td width="50%">
 
-### Overview
+### 🚀 AutoLance
 
-AI-powered automation agent that streamlines Upwork proposal generation and bidding workflows.
+AI Agent for Upwork automation.
 
-| Category    | Details                       |
-| ----------- | ----------------------------- |
-| Stack       | Python, Automation, AI Agents |
-| Scale       | Freelancer Productivity       |
-| Performance | Automated Proposal Generation |
-| Security    | Workflow-Based Execution      |
-| Impact      | Reduces Manual Effort         |
-| Repository  | AutoLance                     |
-
-### Highlights
-
-* Autonomous job scanning
-* Proposal generation
-* Opportunity filtering
+* Automated proposal generation
+* Intelligent opportunity matching
+* Workflow automation
 * Productivity enhancement
 
-</details>
+</td>
 
-<details>
-<summary><b>ASTA Stock Trend Prediction System</b></summary>
+<td width="50%">
 
-### Overview
+### 👥 Smart Crowd Detector
 
-Machine learning system for stock market trend forecasting.
+YOLOv8-powered crowd analytics platform.
 
-| Category    | Details                            |
-| ----------- | ---------------------------------- |
-| Stack       | Python, Machine Learning           |
-| Scale       | Financial Forecasting              |
-| Performance | Predictive Analytics               |
-| Security    | Structured Data Pipeline           |
-| Impact      | Decision Support                   |
-| Repository  | ASTA-Stock-Trend-Prediction-System |
-
-### Highlights
-
-* Trend prediction
-* Financial analytics
-* Historical data processing
-* Forecasting models
-
-</details>
-
-<details>
-<summary><b>Smart Crowd Detector</b></summary>
-
-### Overview
-
-Real-time AI-powered crowd analysis platform using YOLOv8.
-
-| Category    | Details                            |
-| ----------- | ---------------------------------- |
-| Stack       | Python, YOLOv8, Computer Vision    |
-| Scale       | Real-Time Monitoring               |
-| Performance | Live Detection & Tracking          |
-| Security    | Surveillance-Oriented Architecture |
-| Impact      | Public Safety & Analytics          |
-| Repository  | Smart_Crowd_Detector               |
-
-### Highlights
-
-* Real-time crowd counting
-* Density estimation
+* Real-time crowd detection
+* Density tracking
 * Heatmap generation
-* Object tracking
+* Computer vision analytics
 
-</details>
-
-<details>
-<summary><b>Scout Search Engine</b></summary>
-
-### Overview
-
-Custom search engine project focusing on information retrieval and indexing.
-
-| Category    | Details                     |
-| ----------- | --------------------------- |
-| Stack       | Python                      |
-| Scale       | Search Platform             |
-| Performance | Fast Retrieval              |
-| Security    | Structured Query Processing |
-| Impact      | Information Discovery       |
-| Repository  | Scout-Search-Engine         |
-
-</details>
-
-<details>
-<summary><b>Bus Management System</b></summary>
-
-### Overview
-
-Cross-platform transportation management ecosystem.
-
-| Category    | Details                       |
-| ----------- | ----------------------------- |
-| Stack       | Java, JavaFX, MySQL, Retrofit |
-| Scale       | Multi-Platform                |
-| Performance | Real-Time Booking             |
-| Security    | Role-Based Access             |
-| Impact      | Transport Digitization        |
-| Repository  | Bus-Management-System         |
-
-### Highlights
-
-* Seat reservation
-* Trip management
-* Admin dashboard
-* Mobile booking integration
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
-# Experience
+## < /> Repository Highlights
 
-## AI Engineer & Software Developer
-
-**Independent Projects & Open Source Development**
-**2024 – Present**
-
-Designing and developing AI-powered software systems, full-stack applications, and automation platforms.
-
-### Scope of Work
-
-* Building production-ready AI systems
-* Developing RAG-based applications
-* Creating computer vision solutions
-* Engineering backend services
-* Building scalable software products
-* Open source contribution
-
-**Skills**
-
-`Python` `AI` `Machine Learning` `FastAPI` `Computer Vision` `RAG` `LLMs` `Git`
+| Project                     | Description                                            |
+| --------------------------- | ------------------------------------------------------ |
+| DocuGuard                   | AI-powered audit and compliance platform               |
+| Chatbot                     | Retrieval-Augmented Generation customer support system |
+| AutoLance                   | AI-powered Upwork bidding assistant                    |
+| ASTA Stock Trend Prediction | ML-based financial forecasting                         |
+| Smart Crowd Detector        | Computer vision crowd monitoring system                |
+| Scout Search Engine         | Search and information retrieval platform              |
+| Bus Management System       | Java + MySQL transportation management solution        |
+| Library Management System   | Academic management software                           |
 
 ---
 
-# Achievements
+## < /> Telemetry Stats
 
 <div align="center">
 
-| Recognition                   | Details                            |
-| ----------------------------- | ---------------------------------- |
-| GitHub Pull Shark             | Recognized Contributor Achievement |
-| AI Projects Portfolio         | Multiple End-to-End AI Solutions   |
-| Open Source Development       | Public Technical Repositories      |
-| Software Engineering Projects | Full Lifecycle Development         |
+<img src="https://github-readme-stats.vercel.app/api?username=OmerIrfan111&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
 
-</div>
-
----
-
-# Certifications
-
-## AWS
-
-![AWS](https://img.shields.io/badge/AWS-In%20Progress-FF9900?style=for-the-badge\&logo=amazonaws)
-
-## Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge\&logo=oracle)
-
-## NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certifications-1F4E79?style=for-the-badge)
-
-## Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-049FD9?style=for-the-badge\&logo=cisco)
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge\&logo=leetcode)](https://leetcode.com)
-
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge\&logo=geeksforgeeks)](https://www.geeksforgeeks.org)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge\&logo=hackerrank)](https://hackerrank.com)
-
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge\&logo=codechef)](https://codechef.com)
-
-</div>
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmerIrfan111&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OmerIrfan111&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmerIrfan111&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerIrfan111&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmerIrfan111&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=OmerIrfan111&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# Contribution Activity
+## < /> Contribution Graph
 
 <div align="center">
 
@@ -393,72 +181,43 @@ Designing and developing AI-powered software systems, full-stack applications, a
 
 ---
 
-# Contribution Snake
+## < /> GitHub Trophies
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/OmerIrfan111/OmerIrfan111/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=OmerIrfan111&theme=tokyonight&no-frame=true"/>
+
+</div>
+
+---
+---
+
+## < /> Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmerIrfan111/OmerIrfan111/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmerIrfan111/OmerIrfan111/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/OmerIrfan111/OmerIrfan111/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
 ---
 
-# Current Focus
-
-```yaml
-Learning:
-  - Advanced AI Engineering
-  - Agentic AI Systems
-  - Cloud Architecture
-  - System Design
-
-Building:
-  - Enterprise AI Applications
-  - RAG Platforms
-  - AI Automation Systems
-
-Exploring:
-  - Multi-Agent Frameworks
-  - LLM Orchestration
-  - Cloud-Native Infrastructure
-
-Open To:
-  - Internships
-  - Software Engineering Roles
-  - AI/ML Engineering Roles
-  - Open Source Collaborations
-```
-
----
-
-# Connect
+## < /> Open Ports (Connect)
 
 <div align="center">
 
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/OmerIrfan111">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://omerirfan111.github.io">
-<img src="https://img.shields.io/badge/Portfolio-Website-7C3AED?style=for-the-badge"/>
-</a>
+|                   GitHub                  |      LinkedIn     |      Email     |
+| :---------------------------------------: | :---------------: | :------------: |
+| [GitHub](https://github.com/OmerIrfan111) | Add Your LinkedIn | Add Your Email |
 
 </div>
 
----
-
 <div align="center">
 
-### "Engineering intelligent systems that create measurable impact."
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4F46E5,25:6366F1,50:7C3AED,75:8B5CF6,100:A855F7"/>
+<sub>> AI Engineer • Software Engineer • Open Source Builder</sub>
 
 </div>
