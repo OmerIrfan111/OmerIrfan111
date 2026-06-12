@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:0d1117,70:2D1B69,100:7C3AED\&height=220\&section=header\&text=Muhammad%20Omer%20Irfan\&fontSize=60\&fontColor=A855F7\&fontAlignY=35\&desc=AI/ML%20Engineer%20%7C%20Software%20Engineer\&descColor=C084FC\&descSize=20\&descAlignY=55\&animation=fadeIn)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:0d1117,70:2D1B69,100:7C3AED\&height=220\&section=header\&text=Muhammad%20Omer%20Irfan\&fontSize=60\&fontColor=A855F7\&fontAlignY=35\&desc=AI%20Engineer%20%7C%20Software%20Engineer\&descColor=C084FC\&descSize=20\&descAlignY=55\&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=500\&size=20\&pause=1000\&color=A855F7\&center=true\&vCenter=true\&width=700\&lines=Building+AI-Powered+Applications;Developing+RAG+Systems;Engineering+Full-Stack+Solutions;Creating+Intelligent+Automation+Systems)](https://git.io/typing-svg)
 
