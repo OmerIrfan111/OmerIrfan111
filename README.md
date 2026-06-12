@@ -14,7 +14,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=OmerIrfan111\&color=A855F7\&style=flat-square\&label=PROFILE+VIEWS)](https://github.com/OmerIrfan111)
 [![GitHub](https://img.shields.io/badge/GitHub-OmerIrfan111-A855F7?style=flat-square\&logo=github)](https://github.com/OmerIrfan111)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-7C3AED?style=flat-square)](https://github.com/OmerIrfan111)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-7C3AED?style=flat-square)](https://omeri.vercel.app)
 
 </div>
 
@@ -210,9 +210,9 @@ YOLOv8-powered crowd analytics platform.
 
 <div align="center">
 
-|                   GitHub                  |      LinkedIn     |      Email     |
+|                   GitHub                  |      Portfolio     |      Email     |
 | :---------------------------------------: | :---------------: | :------------: |
-| [GitHub](https://github.com/OmerIrfan111) | Add Your LinkedIn | Add Your Email |
+| [GitHub](https://github.com/OmerIrfan111) | [Portfolio](https://omeri.vercel.app/) | [Email](mirfan.bese24seecs@seecs.edu.pk) |
 
 </div>
 
